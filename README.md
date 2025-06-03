@@ -21,7 +21,6 @@ pip install pynput
 ⚙️ Uso
 - Ejecuta el script con Python.
 - Presiona T para iniciar o detener el clic automático.
-- Observa en la consola el intervalo aleatorio entre clics.
 - Finaliza el script cerrando la ventana o deteniéndolo con Ctrl + C.
 🛠️ Configuración
 Si deseas modificar la velocidad de los clics, puedes cambiar los valores de min_click y max_click en el código:

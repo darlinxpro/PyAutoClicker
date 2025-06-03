@@ -8,6 +8,8 @@ Este proyecto es un **AutoClicker** desarrollado en Python, utilizando la biblio
 - Activación y desactivación con la tecla `T`.
 - Código optimizado para evitar el uso excesivo del procesador.
 
+![image](https://github.com/user-attachments/assets/948fd53c-b54b-485d-a085-4d2b6b3123a0)
+
 ## 🚀 Requisitos
 Antes de ejecutar el script, asegúrate de tener instaladas las siguientes dependencias:
 

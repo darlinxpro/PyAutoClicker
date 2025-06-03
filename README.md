@@ -13,6 +13,8 @@ Antes de ejecutar el script, asegúrate de tener instaladas las siguientes depen
 
 ```bash
 pip install pynput
+```
+
 
 ⚙️ Uso
 - Ejecuta el script con Python.

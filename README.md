@@ -27,5 +27,5 @@ Si deseas modificar la velocidad de los clics, puedes cambiar los valores de min
 min_click = 50  # Clics por segundo mínimo
 max_click = 100 # Clics por segundo máximo
 
-📝 Licencia
+## 📝 Licencia
 Este proyecto es de código abierto y puedes utilizarlo libremente. Se recomienda su uso responsable.
